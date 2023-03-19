@@ -37,8 +37,16 @@ Created using free asset from Unreal marketplace and Mixamo.
 - Has finish line (volume) for player finish.   
 - There is one more empty level for player land after finish from previous level.  
 
+## Control :  
+Game control :  
+Walk/Run = W-A-S-D  
+Jump = SPACE  
+Pickup weapon = Left Mouse Button  
+Attack = Left Mouse Button (armed)   
+Sprint = Left Shift (while move)   
+Menu = ESC or Q
 
-Download build for play testing here :  
+Download Win 64 build for play testing here :  
 https://drive.google.com/file/d/1Jbdp7x9sgNJ2Gfu1x9hspua25_QWUT3F/view?usp=share_link   
 
 Assets : 
@@ -49,5 +57,6 @@ https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-effects
 https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons  
 https://www.unrealengine.com/marketplace/en-US/product/sun-temple  
 https://github.com/DruidMech/LearnCPPForUnrealEngineUnit2  
+
 
 Thank you!  
